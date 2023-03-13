@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\bin\Debug\net6.0\Homework-One-Task2.exe
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\bin\Debug\net6.0\Homework-One-Task2.deps.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\bin\Debug\net6.0\Homework-One-Task2.runtimeconfig.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\bin\Debug\net6.0\Homework-One-Task2.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\bin\Debug\net6.0\Homework-One-Task2.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.AssemblyInfo.cs
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\refint\Homework-One-Task2.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\Homework-One-Task2.genruntimeconfig.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-One\Homework-One-First\obj\Debug\net6.0\ref\Homework-One-Task2.dll
