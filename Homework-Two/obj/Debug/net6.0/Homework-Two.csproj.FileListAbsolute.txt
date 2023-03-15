@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\bin\Debug\net6.0\Homework-Two.exe
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\bin\Debug\net6.0\Homework-Two.deps.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\bin\Debug\net6.0\Homework-Two.runtimeconfig.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\bin\Debug\net6.0\Homework-Two.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\bin\Debug\net6.0\Homework-Two.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.AssemblyInfo.cs
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\refint\Homework-Two.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\Homework-Two.genruntimeconfig.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Two\obj\Debug\net6.0\ref\Homework-Two.dll
