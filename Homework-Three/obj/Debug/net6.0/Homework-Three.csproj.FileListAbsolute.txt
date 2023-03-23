@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.AssemblyInfo.cs
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\bin\Debug\net6.0\Homework-Three.exe
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\bin\Debug\net6.0\Homework-Three.deps.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\bin\Debug\net6.0\Homework-Three.runtimeconfig.json
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\bin\Debug\net6.0\Homework-Three.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\bin\Debug\net6.0\Homework-Three.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\refint\Homework-Three.dll
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.pdb
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\Homework-Three.genruntimeconfig.cache
+C:\Users\Luka\Desktop\csharp-basic-homeworks\Homework-Three\obj\Debug\net6.0\ref\Homework-Three.dll
